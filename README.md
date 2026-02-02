@@ -13,7 +13,7 @@ The goal of this project is layout mastery, not JavaScript functionality.
 
 ✨ Features
 
-• Semantic HTML5 structure (<header>, <main>, <aside>)
+• Semantic HTML5 structure
 • Dashboard layout built primarily with CSS Grid
 • Nested grids for complex UI sections
 • SVG icon system using inline SVG sprites
