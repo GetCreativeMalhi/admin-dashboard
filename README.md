@@ -1,4 +1,4 @@
-This project focuses on mastering CSS Grid, layout structuring, and real-world dashboard design patterns.
+🖥️ This project focuses on mastering CSS Grid, layout structuring, and real-world dashboard design patterns.
 
 ⸻
 
@@ -12,6 +12,7 @@ The goal of this project is layout mastery, not JavaScript functionality.
 ⸻
 
 ✨ Features
+
 • Semantic HTML5 structure (<header>, <main>, <aside>)
 • Dashboard layout built primarily with CSS Grid
 • Nested grids for complex UI sections
@@ -22,6 +23,7 @@ The goal of this project is layout mastery, not JavaScript functionality.
 ⸻
 
 🛠️ Technologies Used
+
 • 🌐 HTML5
 • 🎨 CSS3 (Grid & Flexbox)
 • 🧩 SVG Icons (Material Design Icons)
@@ -29,6 +31,7 @@ The goal of this project is layout mastery, not JavaScript functionality.
 ⸻
 
 📂 Project Structure
+
 ├── index.html # Main HTML structure
 ├── style.css # Layout and styling (CSS Grid)
 └── README.md # Project documentation
@@ -94,6 +97,7 @@ Step 5: Design Notes & Tips
 ⸻
 
 📚 Resources
+
 • The Odin Project – Intermediate HTML & CSS
 • MDN Web Docs
 • Material Design Icons
@@ -102,6 +106,7 @@ Step 5: Design Notes & Tips
 ⸻
 
 🙌 Credits / Acknowledgements
+
 • Inspired by The Odin Project curriculum
 • Icons provided by Material Design Icons
 • Thanks to open-source documentation and learning resources
